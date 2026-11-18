@@ -1,0 +1,233 @@
+{
+  "lastUpdated": "2026-11-19T08:00:00+02:00",
+  "editionSlot": "Morning Edition (08:00 IST)",
+  "nextUpdateSlot": "Evening Edition (20:00 IST)",
+  "statusSummary": {
+    "stage": "Finalizing Agreement / Medical & Contract Sign-Off",
+    "leadCandidate": "Ran Ben Shimon",
+    "probability": 88,
+    "daysSinceVacancy": 12,
+    "sportingDirector": "Lior Refaelov",
+    "clubPresident": "Ya'akov Shahar",
+    "nextFixture": "vs. Bnei Sakhnin (Israeli Premier League)"
+  },
+  "candidates": [
+    {
+      "id": "ran-ben-shimon",
+      "name": "Ran Ben Shimon",
+      "role": "Outgoing Israel National Team Manager",
+      "nationality": "Israel",
+      "type": "Domestic / International Exp.",
+      "status": "Frontrunner — Agreement in Principle",
+      "tier": "Tier 1 (Confirmed Talks)",
+      "probability": 88,
+      "contractTerms": "1.5-year deal (~€350,000/season)",
+      "pros": [
+        "Deep tactical familiarity with the Israeli Premier League",
+        "Proven championship pedigree (Ironi Kiryat Shmona, AEK Larnaca)",
+        "Available immediately following UEFA Nations League campaign"
+      ],
+      "cons": [
+        "High-pressure transition immediately after national team exit",
+        "Must quickly rebuild locker room confidence after 4-0 Netanya defeat"
+      ],
+      "summary": "Following his resignation from the Israel National Team after the November UEFA Nations League window, Ben Shimon emerged as Ya'akov Shahar and Lior Refaelov's top actionable target. An agreement in principle for an 18-month contract has been reached ahead of a final summit in Tel Aviv."
+    },
+    {
+      "id": "edi-iordanescu",
+      "name": "Edi Iordănescu",
+      "role": "Former Romania National Team Head Coach",
+      "nationality": "Romania",
+      "type": "Foreign Profile",
+      "status": "Shortlisted — On Hold",
+      "tier": "Tier 2 (Foreign Target)",
+      "probability": 7,
+      "contractTerms": "Demanded €650,000+ & full foreign backroom staff",
+      "pros": [
+        "Guided Romania to top of Euro 2024 group stage",
+        "Strong defensive organization and discipline",
+        "Fits Lior Refaelov's original European profile blueprint"
+      ],
+      "cons": [
+        "Logistical hurdles bringing full foreign staff mid-season",
+        "High wage demands and reluctance to relocate immediately"
+      ],
+      "summary": "Evaluated extensively by Lior Refaelov during the initial foreign coach sweep between Nov 9 and Nov 14. While mutual respect was registered, budget gaps and urgency pushed Haifa toward an immediate domestic solution."
+    },
+    {
+      "id": "omer-peretz",
+      "name": "Omer Peretz",
+      "role": "Hapoel Petah Tikva Head Coach",
+      "nationality": "Israel",
+      "type": "Domestic Profile",
+      "status": "Backup Option",
+      "tier": "Tier 2 (Domestic Alternative)",
+      "probability": 3,
+      "contractTerms": "Requires buyout clause release from Hapoel Petah Tikva",
+      "pros": [
+        "Modern attacking philosophy and proactive pressing",
+        "Works seamlessly within a Sporting Director structure",
+        "Accessible financial package"
+      ],
+      "cons": [
+        "Limited experience managing title expectations at Sammy Ofer",
+        "Under contract with Hapoel Petah Tikva"
+      ],
+      "summary": "Identified by the scouting department as the leading younger Israeli tactical mind should talks with senior candidates stall."
+    },
+    {
+      "id": "barak-yitzhaki",
+      "name": "Barak Yitzhaki",
+      "role": "Beitar Jerusalem Head Coach",
+      "nationality": "Israel",
+      "type": "Domestic Profile",
+      "status": "Unlikely / Monitored",
+      "tier": "Tier 3 (Media Speculation)",
+      "probability": 1,
+      "contractTerms": "Under contract at Beitar Jerusalem",
+      "pros": [
+        "Proven ability to handle massive fanbase pressure and big-club spotlight",
+        "High-octane offensive football"
+      ],
+      "cons": [
+        "Tightly committed to Beitar Jerusalem project",
+        "Questions over authority balance alongside Sporting Director Lior Refaelov"
+      ],
+      "summary": "Discussed internally by pundits and board circles as an ambitious domestic swing, though breaking his current contract mid-season was deemed unrealistic."
+    },
+    {
+      "id": "sharon-mimar",
+      "name": "Sharon Mimar",
+      "role": "Bnei Reineh Head Coach",
+      "nationality": "Israel",
+      "type": "Domestic Profile",
+      "status": "Evaluated",
+      "tier": "Tier 3 (Shortlist)",
+      "probability": 1,
+      "contractTerms": "Standard domestic release",
+      "pros": [
+        "Consistent overachiever in the Israeli Premier League against top-six clubs",
+        "Pragmatic tactical adaptability"
+      ],
+      "cons": [
+        "Board preferred a marquee name to calm supporter unrest"
+      ],
+      "summary": "Considered a steady hand capable of stabilizing defensive transitions, kept on the expanded shortlist during week one of the search."
+    }
+  ],
+  "dispatches": [
+    {
+      "id": "2026-11-19-am",
+      "date": "2026-11-19",
+      "slot": "Morning Edition",
+      "time": "08:00 IST",
+      "tag": "BREAKING AGREEMENT",
+      "tier": "Tier 1",
+      "title": "Morning Briefing: Ran Ben Shimon Set for Final Summit with Ya'akov Shahar Ahead of Bnei Sakhnin Debut",
+      "source": "Ynet Sport / Channel 5 Israel",
+      "sourceUrl": "https://www.ynet.co.il/sport/israelisoccer",
+      "excerpt": "After agreeing in principle on a 1.5-year contract worth roughly €350,000 per season, Ran Ben Shimon is scheduled to finalize contract clauses with club president Ya'akov Shahar today and lead his first training session at Kfar Galim before the weekend clash against Bnei Sakhnin.",
+      "details": [
+        "Contract duration: 18 months (through end of 2027/28 season) with performance bonuses tied to European qualification.",
+        "Annual base salary estimated at €350,000.",
+        "Lior Refaelov played a pivotal role in accelerating negotiations within hours of Ben Shimon's Israel National Team departure."
+      ]
+    },
+    {
+      "id": "2026-11-18-pm",
+      "date": "2026-11-18",
+      "slot": "Evening Edition",
+      "time": "20:00 IST",
+      "tag": "NEGOTIATIONS",
+      "tier": "Tier 1",
+      "title": "Evening Update: Breakthrough in Talks — Ben Shimon Agrees in Principle to Take Charge at Sammy Ofer",
+      "source": "ONE / Walla! Sport",
+      "sourceUrl": "https://www.one.co.il",
+      "excerpt": "What began as quiet backchannel contact turned into advanced contract drafting on Wednesday evening. Both sides bridged gaps over contract length, settling on a year-and-a-half commitment rather than an interim six-month arrangement.",
+      "details": [
+        "Ben Shimon insisted on a multi-season horizon to reshape the squad alongside Lior Refaelov.",
+        "Backroom staff alignments are being finalized, retaining existing fitness and goalkeeper coaches at Kfar Galim."
+      ]
+    },
+    {
+      "id": "2026-11-18-am",
+      "date": "2026-11-18",
+      "slot": "Morning Edition",
+      "time": "08:00 IST",
+      "tag": "MAJOR SHIFT",
+      "tier": "Tier 1",
+      "title": "Morning Briefing: Ran Ben Shimon Steps Down from Israel National Team, Immediately Becomes Haifa's #1 Target",
+      "source": "Sport5 / Israel Hayom",
+      "sourceUrl": "https://www.sport5.co.il",
+      "excerpt": "Following the conclusion of Israel's UEFA Nations League campaign, Ran Ben Shimon officially parted ways with the IFA. Maccabi Haifa's hierarchy wasted no time pivoting from complex foreign negotiations to the newly available veteran manager.",
+      "details": [
+        "Foreign candidates hesitated over mid-season relocation logistics.",
+        "Ya'akov Shahar greenlit an immediate approach to Ben Shimon's representatives."
+      ]
+    },
+    {
+      "id": "2026-11-17-pm",
+      "date": "2026-11-17",
+      "slot": "Evening Edition",
+      "time": "20:00 IST",
+      "tag": "SHORTLIST UPDATE",
+      "tier": "Tier 2",
+      "title": "Evening Update: Foreign Deadlock Prompts Refaelov to Activate Domestic Contingency List",
+      "source": "Ynet Sport",
+      "sourceUrl": "https://www.ynet.co.il/sport",
+      "excerpt": "With the international break winding down and league play resuming against Bnei Sakhnin, Sporting Director Lior Refaelov prepared domestic fallback profiles including Omer Peretz and Sharon Mimar while awaiting clarity on top-tier targets.",
+      "details": [
+        "Interim coaching staff continued running double sessions at Kfar Galim.",
+        "Board set a 48-hour internal deadline to appoint a permanent head coach before matchday preparation."
+      ]
+    },
+    {
+      "id": "2026-11-17-am",
+      "date": "2026-11-17",
+      "slot": "Morning Edition",
+      "time": "08:00 IST",
+      "tag": "FOREIGN SEARCH",
+      "tier": "Tier 2",
+      "title": "Morning Briefing: Edi Iordănescu & European Profiles Weighed Against Mid-Season Realities",
+      "source": "ScoreTransfer / Haipo",
+      "sourceUrl": "https://haipo.co.il",
+      "excerpt": "Former Romania national team boss Edi Iordănescu remained high on Lior Refaelov's European dossier, but financial demands and requests to overhaul the entire technical staff cooled momentum.",
+      "details": [
+        "Refaelov interviewed three European tactical profiles via video conference over the weekend.",
+        "Club veterans voiced preference for a coach who already knows the Israeli Premier League ecosystem."
+      ]
+    },
+    {
+      "id": "2026-11-16-pm",
+      "date": "2026-11-16",
+      "slot": "Evening Edition",
+      "time": "20:00 IST",
+      "tag": "CANDIDATE DOSSIER",
+      "tier": "Tier 2",
+      "title": "Evening Update: Explaining the Authority Balance Between Lior Refaelov and the Next Head Coach",
+      "source": "Director of Football / Israeli Media",
+      "sourceUrl": "https://www.israelhayom.co.il",
+      "excerpt": "Analysts highlight a central criterion in Maccabi Haifa's search: the incoming manager must work collaboratively within Lior Refaelov's centralized sporting director model, complicating theoretical links to high-autonomy managers.",
+      "details": [
+        "Transfer policy and January window recruitment will remain jointly managed by Refaelov's scouting unit.",
+        "Omer Peretz praised internally for his modern tactical work at Hapoel Petah Tikva."
+      ]
+    },
+    {
+      "id": "2026-11-08-am",
+      "date": "2026-11-08",
+      "slot": "Morning Edition",
+      "time": "08:00 IST",
+      "tag": "THE CATALYST",
+      "tier": "Official",
+      "title": "Archive Dispatch: Barak Bakhar Resigns in Tears After 4-0 Home Defeat to Maccabi Netanya",
+      "source": "Official Club Statement / Sports Rabbi",
+      "sourceUrl": "https://mhaifafc.com",
+      "excerpt": "On the night of November 7, 2026, following a stunning 4-0 loss to Maccabi Netanya at Sammy Ofer Stadium, three-time champion head coach Barak Bakhar announced his immediate resignation live on television: 'The team needs a change. I tried, it didn't work.'",
+      "details": [
+        "Bakhar took full personal responsibility for the early 2026/27 slump.",
+        "President Ya'akov Shahar and Sporting Director Lior Refaelov convened an emergency morning board meeting on Nov 8 to launch the official head coach search."
+      ]
+    }
+  ]
+}

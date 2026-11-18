@@ -1,0 +1,32 @@
+name: Twice-Daily Maccabi Haifa Coach News Update
+
+on:
+  schedule:
+    # Runs twice a day: 06:00 UTC (08:00 IST Morning Edition) and 18:00 UTC (20:00 IST Evening Edition)
+    - cron: '0 6,18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Twice-Daily News Updater
+        run: python scripts/update_news.py
+
+      - name: Commit and Push Updated News Feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git diff --staged --quiet || (git commit -m "chore(news): twice-daily Maccabi Haifa head coach search update" && git push)
