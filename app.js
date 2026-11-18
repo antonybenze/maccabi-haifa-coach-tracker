@@ -7,7 +7,7 @@
  * 4. On-demand live RSS wire supplement check for breaking Maccabi Haifa head coach headlines
  */
 
-const DEFAULT_REPO_SLUG = 'anton/maccabi-haifa-coach-tracker';
+const DEFAULT_REPO_SLUG = 'antoniustheman/maccabi-haifa-coach-tracker';
 
 let newsData = null;
 let activeCandidateFilter = 'all';
