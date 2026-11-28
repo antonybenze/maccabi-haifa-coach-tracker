@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-27T17:42:31+02:00",
-  "editionSlot": "Evening Edition (20:00 IST)",
-  "nextUpdateSlot": "Morning Edition (08:00 IST)",
+  "lastUpdated": "2026-11-28T02:46:26+02:00",
+  "editionSlot": "Morning Edition (08:00 IST)",
+  "nextUpdateSlot": "Evening Edition (20:00 IST)",
   "statusSummary": {
     "stage": "Finalizing Agreement / Medical & Contract Sign-Off",
     "leadCandidate": "Ran Ben Shimon",
@@ -116,6 +116,21 @@
     }
   ],
   "dispatches": [
+    {
+      "id": "2026-11-28-am",
+      "date": "2026-11-28",
+      "slot": "Morning Edition",
+      "time": "08:00 IST",
+      "tag": "AUTOMATED WIRE",
+      "tier": "Live Feed",
+      "title": "Morning Edition: Maccabi Haifa in the Shadow of War: Barak Bachar will coach the team next season as well • Lior Refaalov will be a professional manager - Haifa News Corporation - Haifa and the surrounding area - haipo.co.il",
+      "source": "haipo.co.il",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pVGd2aXVvNVdwLTdhVWpvUV9fYXhpVmFrbkFIWmlrRVEyNTlOMkhObVJOY0xVLXJ3VzV6X25ybzZsV3liTEZ5UHVR?oc=5",
+      "excerpt": "Twice-daily automated newsroom update (08:00 IST) tracking Maccabi Haifa's head coach appointment process.",
+      "details": [
+        "Automated twice-daily newsroom sync verified latest Israeli Premier League coaching reports."
+      ]
+    },
     {
       "id": "2026-11-27-pm",
       "date": "2026-11-27",
